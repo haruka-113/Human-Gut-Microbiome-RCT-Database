@@ -1,0 +1,37 @@
+{
+    "project_accession": "PRJNA419373",
+    "pmc_id": "PMC6066923",
+    "paper_title": "Role of whole grains versus fruits and vegetables in reducing subclinical inflammation and promoting gastrointestinal health in individuals affected by overweight and obesity: a randomized controlled trial",
+    "pico": {
+        "patient": "obesity person",
+        "intervention": [
+            "whole grains",
+            "fruits and vegetables"
+        ],
+        "comparison": "refined grains",
+        "reference": null,
+        "outcome": " The treatments induced individualized changes in microbiota composition such that treatment group differences were not identified, except for a significant increase in α-diversity in the FV group. The proportions of Clostridiales (Firmicutes phylum) at baseline were correlated with the magnitude of change in LBP during the study."
+    },
+    "n_total": 49,
+    "n": [
+        {
+            "group_name": "whole grains",
+            "n_pergroup": 17
+        },
+        {
+            "group_name": "fruits and vegetables",
+            "n_pergroup": 18
+        },
+        {
+            "group_name": "refined grains",
+            "n_pergroup": 14
+        }
+    ],
+    "intervention_period_day": null,
+    "washout_period_day": null,
+    "intervention_frequency": "three times a day",
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": ""
+}

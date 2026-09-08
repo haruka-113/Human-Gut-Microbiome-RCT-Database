@@ -1,0 +1,33 @@
+{
+    "project_accession": "PRJNA824324",
+    "pmc_id": "PMC9239168",
+    "paper_title": "High Dose Intramuscular Vitamin D3 Supplementation Impacts the Gut Microbiota of Patients With Clostridioides Difficile Infection",
+    "pico": {
+        "patient": "person with clostridium difficile infection",
+        "intervention": "vitamin D and vancomycin",
+        "comparison": "vancomycin",
+        "reference": null,
+        "outcome": "investigate the differences of the microbiota composition between the two groups, including eight CDI-positive patients with vitamin D supplementation and ten CDI-positive patients without vitamin D supplementation by using 16S rRNA microbial profiling"
+    },
+    "n_total": 18,
+    "n": [
+        {
+            "group_name": "vitamin D and vancomycin",
+            "n_pergroup": 8
+        },
+        {
+            "group_name": "vancomycin",
+            "n_pergroup": 10
+        }
+    ],
+    "intervention_period_day": 14,
+    "washout_period_day": null,
+    "intervention_frequency": [
+        null,
+        "four times a day"
+    ],
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": "pilot study."
+}

@@ -1,0 +1,33 @@
+{
+    "project_accession": "PRJNA645883",
+    "pmc_id": "PMC7602113",
+    "paper_title": "Gut Microbiome Changes in Patients with Active Left-Sided Ulcerative Colitis after Fecal Microbiome Transplantation and Topical 5-aminosalicylic Acid Therapy",
+    "pico": {
+        "patient": "person with ulcerative colitis",
+        "intervention": "FMT",
+        "comparison": "aminosalicylates",
+        "reference": null,
+        "outcome": "invetigate changes in fecal bacterial composition after both types of treatments and evaluate clinical responses"
+    },
+    "n_total": 16,
+    "n": [
+        {
+            "group_name": "FMT",
+            "n_pergroup": 8
+        },
+        {
+            "group_name": "aminosalicylates",
+            "n_pergroup": 8
+        }
+    ],
+    "intervention_period_day": 42,
+    "washout_period_day": null,
+    "intervention_frequency": [
+        "5 times in the first week, then once a week",
+        "every day until the second week, then every 2 days"
+    ],
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days."
+}

@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA865884",
+    "pmc_id": "PMC10004836",
+    "paper_title": "Benefits of Probiotic Pretreatment on the Gut Microbiota and Minor Complications after Bowel Preparation for Colonoscopy: A Randomized Double-Blind, Placebo-Controlled Pilot Trial",
+    "pico": {
+        "patient": "healthy",
+        "intervention": " Lactobacillus acidophilus CBT LA1, Lactobacillus rhamnosus CBT LR5, Bifidobacterium lactis CBT BL3, Bifidobacterium longum CBT BG7, Bifidobacterium bifidum CBT BFs, and Streptococcus thermophilus CBT ST3",
+        "comparison": "maltodextrin",
+        "reference": null,
+        "outcome": "Probiotic pretreatment had benefits on the alteration and recovery of gut microbiota and possible complications after bowel preparation."
+    },
+    "n_total": 51,
+    "n": [
+        {
+            "group_name": " Lactobacillus acidophilus CBT LA1, Lactobacillus rhamnosus CBT LR5, Bifidobacterium lactis CBT BL3, Bifidobacterium longum CBT BG7, Bifidobacterium bifidum CBT BFs, and Streptococcus thermophilus CBT ST3",
+            "n_pergroup": 26
+        },
+        {
+            "group_name": "maltodextrin",
+            "n_pergroup": 25
+        }
+    ],
+    "intervention_period_day": 30,
+    "washout_period_day": null,
+    "intervention_frequency": "once a aday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "pilot study. inetervention_period_day changes the unit from months to days."
+}

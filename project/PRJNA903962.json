@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA903962",
+    "pmc_id": "PMC10453972",
+    "paper_title": "Effect of synbiotic supplementation on immune parameters and gut microbiota in healthy adults: a double-blind randomized controlled trial",
+    "pico": {
+        "patient": "healthy",
+        "intervention": "Bifidobacterium lactis HN019, Lactobacillus rhamnosus HN001, fructooligosaccharide, maltodextrin carrier",
+        "comparison": "placebo including maltodextrin",
+        "reference": null,
+        "outcome": " this study suggested the beneficial effects of synbiotic supplementation on immune parameters, which were correlated with synbiotics-induced microbial changes and modified by microbial enterotypes."
+    },
+    "n_total": 106,
+    "n": [
+        {
+            "group_name": "Bifidobacterium lactis HN019, Lactobacillus rhamnosus HN001, fructooligosaccharide, maltodextrin carrier",
+            "n_pergroup": 53
+        },
+        {
+            "group_name": "placebo including maltodextrin",
+            "n_pergroup": 53
+        }
+    ],
+    "intervention_period_day": 56,
+    "washout_period_day": null,
+    "intervention_frequency": "once a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

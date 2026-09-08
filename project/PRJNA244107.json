@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA244107",
+    "pmc_id": "PMC4196227,PMC4769247",
+    "paper_title": "Randomized Open-Label Pilot Study of the Influence of Probiotics and the Gut Microbiome on Toxic Metal Levels in Tanzanian Pregnant Women and School Children",
+    "pico": {
+        "patient": "healthy children",
+        "intervention": "locally produced yogurt including Lactobacillus rhamnosus GR-1",
+        "comparison": "ultra-heat-treated milk devoid of lactic acid bacteria",
+        "reference": null,
+        "outcome": "Elevated blood lead was associated with increases in Succinivibrionaceae and Gammaproteobacteria relative abundance levels in stool."
+    },
+    "n_total": 36,
+    "n": [
+        {
+            "group_name": "locally produced yogurt including Lactobacillus rhamnosus GR-1",
+            "n_pergroup": 18
+        },
+        {
+            "group_name": "ultra-heat-treated milk devoid of lactic acid bacteria",
+            "n_pergroup": 18
+        }
+    ],
+    "intervention_period_day": 25,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "pilot study. Pregnant women in the same environment were given similar interventions and assessed by blood metal levels."
+}

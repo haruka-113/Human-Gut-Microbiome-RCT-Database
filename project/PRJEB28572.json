@@ -1,0 +1,42 @@
+{
+    "project_accession": "PRJEB28572",
+    "pmc_id": "PMC6445088",
+    "paper_title": "A prospective randomized, double-blind, placebo-controlled, dose-response relationship study to investigate efficacy of fructo-oligosaccharides (FOS) on human gut microflora",
+    "pico": {
+        "patient": "healthy",
+        "intervention": [
+            "2.5g fructo-oligosaccharides",
+            "5g fructo-oligosaccharides",
+            "10g fructo-oligosaccharides"
+        ],
+        "comparison": "maltodextrin",
+        "reference": null,
+        "outcome": "The positive impact of FOS on butyrate-producing bacteria and FOS-mediated increased bacterial diversity reinforces the role of prebiotics in conferring beneficial functions to the host."
+    },
+    "n_total": 69,
+    "n": [
+        {
+            "group_name": "2.5g fructo-oligosaccharides",
+            "n_pergroup": 16
+        },
+        {
+            "group_name": "5g fructo-oligosaccharides",
+            "n_pergroup": 18
+        },
+        {
+            "group_name": "10g fructo-oligosaccharides",
+            "n_pergroup": 18
+        },
+        {
+            "group_name": "maltodextrin",
+            "n_pergroup": 17
+        }
+    ],
+    "intervention_period_day": 210,
+    "washout_period_day": null,
+    "intervention_frequency": "at least one or more times in intervention phase",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from months to days. "
+}

@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA726242",
+    "pmc_id": "PMC9761755",
+    "paper_title": "A red wine intervention does not modify plasma trimethylamine N-oxide but is associated with broad shifts in the plasma metabolome and gut microbiota composition",
+    "pico": {
+        "patient": "person with coronary artery disease",
+        "intervention": "red wine",
+        "comparison": "alcohol abstention",
+        "reference": null,
+        "outcome": "investigate the effects of RW consumption on the gut microbiota, plasma TMAO, and the plasma metabolome in men with documented coronary artery disease (CAD) using a multiomics assessment in a crossover trial"
+    },
+    "n_total": 42,
+    "n": [
+        {
+            "group_name": "red wine first",
+            "n_pergroup": 21
+        },
+        {
+            "group_name": "alcohol abstention first",
+            "n_pergroup": 21
+        }
+    ],
+    "intervention_period_day": 21,
+    "washout_period_day": 14,
+    "intervention_frequency": "five times a week",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "crossover",
+    "supplement": ""
+}

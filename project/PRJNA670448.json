@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA670448",
+    "pmc_id": "PMC8460680",
+    "paper_title": "Early probiotic supplementation with B. infantis in breastfed infants leads to persistent colonization at 1 year",
+    "pico": {
+        "patient": "infants",
+        "intervention": "Bifidobacterium infantis EVC001,breast milk",
+        "comparison": "breast milk",
+        "reference": null,
+        "outcome": "investigate if B. infantis colonization persisted up to 1 year postnatal and identify differences in reported health outcomes between B. infantis EVC001 supplemented and unsupplemented (UNS) infants"
+    },
+    "n_total": 48,
+    "n": [
+        {
+            "group_name": "Bifidobacterium infantis EVC001,breast milk",
+            "n_pergroup": 26
+        },
+        {
+            "group_name": "breast milk",
+            "n_pergroup": 22
+        }
+    ],
+    "intervention_period_day": 21,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": "This study is follow-up study. Samples before the intervention are not collected."
+}

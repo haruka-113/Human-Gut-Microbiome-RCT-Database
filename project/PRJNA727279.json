@@ -1,0 +1,37 @@
+{
+    "project_accession": "PRJNA727279",
+    "pmc_id": "PMC8354614",
+    "paper_title": "A double-blind, 377-subject randomized study identifies Ruminococcus, Coprococcus, Christensenella, and Collinsella as long-term potential key players in the modulation of the gut microbiome of lactose intolerant individuals by galacto-oligosaccharides",
+    "pico": {
+        "patient": "person with lactose intolerance",
+        "intervention": [
+            "low galacto-oligosaccharides",
+            "high galacto-oligosaccharides"
+        ],
+        "comparison": "powdered corn syrup",
+        "reference": null,
+        "outcome": "investigate the changes the fecal microbiome of 377 patients with lactose intolerance (LI), randomized to one of two doses of GOS (GOS High or GOS Low doses), or placebo"
+    },
+    "n_total": 290,
+    "n": [
+        {
+            "group_name": "low galacto-oligosaccharides",
+            "n_pergroup": 94
+        },
+        {
+            "group_name": "high galacto-oligosaccharides",
+            "n_pergroup": 102
+        },
+        {
+            "group_name": "powdered corn syrup",
+            "n_pergroup": 94
+        }
+    ],
+    "intervention_period_day": 30,
+    "washout_period_day": null,
+    "intervention_frequency": "twicw a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "After the intervention period, lactose was administered to all groups to measure glucose tolerance."
+}

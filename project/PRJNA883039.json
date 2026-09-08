@@ -1,0 +1,34 @@
+{
+    "project_accession": "PRJNA883039",
+    "pmc_id": "PMC10077425",
+    "paper_title": "Psychobiotic Lactobacillus plantarum JYLP-326 relieves anxiety, depression, and insomnia symptoms in test anxious college via modulating the gut microbiota and its metabolism",
+    "pico": {
+        "patient": "anxious students",
+        "intervention": "lactobacillus plantarum JYLP-326",
+        "comparison": "maltodextrin",
+        "reference": "healthy",
+        "outcome": "The results indicate that the intervention of L. plantarum JYLP-326 could be an effective strategy to alleviate anxiety, depression, and insomnia in test anxious college students."
+    },
+    "n_total": 90,
+    "n": [
+        {
+            "group_name": "lactobacillus plantarum JYLP-326",
+            "n_pergroup": 30
+        },
+        {
+            "group_name": "no intervention",
+            "n_pergroup": 30
+        },
+        {
+            "group_name": "healthy",
+            "n_pergroup": 30
+        }
+    ],
+    "intervention_period_day": 21,
+    "washout_period_day": null,
+    "intervention_frequency": "twice a day",
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. samples were collected only after intervention."
+}

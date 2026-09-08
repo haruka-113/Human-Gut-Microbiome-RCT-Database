@@ -1,0 +1,47 @@
+{
+    "project_accession": "PRJNA588313",
+    "pmc_id": "PMC8018486",
+    "paper_title": "Expansion and persistence of antibiotic-specific resistance genes following antibiotic treatment",
+    "pico": {
+        "patient": "healthy",
+        "intervention": [
+            "azithromycin",
+            "ceftruoxene",
+            "ciprofloxacin",
+            "doxycycline"
+        ],
+        "comparison": "no intervention",
+        "reference": null,
+        "outcome": "Expansion and persistence of antibiotic resistance genes in intestinal bacteria"
+    },
+    "n_total": 10,
+    "n": [
+        {
+            "group_name": "azithromycin",
+            "n_pergroup": 2
+        },
+        {
+            "group_name": "ceftruoxene",
+            "n_pergroup": 2
+        },
+        {
+            "group_name": "ciprofloxacin",
+            "n_pergroup": 2
+        },
+        {
+            "group_name": "doxycycline",
+            "n_pergroup": 2
+        },
+        {
+            "group_name": "no intervention",
+            "n_pergroup": 2
+        }
+    ],
+    "intervention_period_day": 7,
+    "washout_period_day": null,
+    "intervention_frequency": "once a day or twice a day",
+    "randomization_method": "qRCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "RNA-seq sequencing and whole-genome amplification of VLP-associated DNA are also conducted. Intervention_period_day is expressed as average values. The exact value is 5 or 7 day."
+}

@@ -1,0 +1,37 @@
+{
+    "project_accession": "PRJNA612727",
+    "pmc_id": "PMC7650147",
+    "paper_title": "Stool microbiome, pH and short/branched chain fatty acids in infants receiving extensively hydrolyzed formula, amino acid formula, or human milk through two months of age",
+    "pico": {
+        "patient": "healthy infants",
+        "intervention": [
+            "amino acid-based infant formula",
+            "extensively hydrolyzed protein infant formula"
+        ],
+        "comparison": "breast milk",
+        "reference": null,
+        "outcome": "investigate the impact on intestinal microbiota composition and immune reactivity by early infant feeding with intact or extensively hydrolyzed (EH) proteins or free amino acids (AA)"
+    },
+    "n_total": 49,
+    "n": [
+        {
+            "group_name": "amino acid-based infant formula",
+            "n_pergroup": 14
+        },
+        {
+            "group_name": "extensively hydrolyzed protein infant formula",
+            "n_pergroup": 18
+        },
+        {
+            "group_name": "breast milk",
+            "n_pergroup": 17
+        }
+    ],
+    "intervention_period_day": 60,
+    "washout_period_day": null,
+    "intervention_frequency": null,
+    "randomization_method": "RCT",
+    "blinding_method": "partially blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": ""
+}

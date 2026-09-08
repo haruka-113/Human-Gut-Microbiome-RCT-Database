@@ -1,0 +1,50 @@
+{
+    "project_accession": "PRJNA797530",
+    "pmc_id": "PMC9201212",
+    "paper_title": "Altered Gut Microbiota and Short-Chain Fatty Acids After Vonoprazan-Amoxicillin Dual Therapy for Helicobacter pylori Eradication",
+    "pico": {
+        "patient": "person with Helicobacter pylori",
+        "intervention": [
+            "low amoxicillin and VPZ for 10 days",
+            "high amoxicillin and VPZ for 10 days",
+            "low amoxicillin and VPZ for 7 days",
+            "high amoxicillin and VPZ for 7 days"
+        ],
+        "comparison": null,
+        "reference": "healthy",
+        "outcome": "investigate the short-term effect of VA therapy on the gut microbiota and short-chain fatty acids (SCFAs) using human fecal samples"
+    },
+    "n_total": 66,
+    "n": [
+        {
+            "group_name": "low amoxicillin and VPZ for 10 days",
+            "n_pergroup": 17
+        },
+        {
+            "group_name": "high amoxicillin and VPZ for 10 days",
+            "n_pergroup": 12
+        },
+        {
+            "group_name": "low amoxicillin and VPZ for 7 days",
+            "n_pergroup": 13
+        },
+        {
+            "group_name": "high amoxicillin and VPZ for 7 days",
+            "n_pergroup": 11
+        },
+        {
+            "group_name": "healthy",
+            "n_pergroup": 13
+        }
+    ],
+    "intervention_period_day": [
+        7,
+        10
+    ],
+    "washout_period_day": null,
+    "intervention_frequency": "twice or three times a day",
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": ""
+}

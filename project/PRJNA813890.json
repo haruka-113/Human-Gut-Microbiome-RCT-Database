@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA813890",
+    "pmc_id": "PMC9145469",
+    "paper_title": "Minimal Effects of Medium-Chain Triglyceride Supplementation on the Intestinal Microbiome Composition of Premature Infants: A Single-Center Pilot Study",
+    "pico": {
+        "patient": "premature infants",
+        "intervention": "medium-chain triglyceride oil",
+        "comparison": "no intervention",
+        "reference": null,
+        "outcome": "investigate  whether MCT supplementation impacts the bacterial component of the microbiome"
+    },
+    "n_total": 17,
+    "n": [
+        {
+            "group_name": "medium-chain triglyceride oil",
+            "n_pergroup": 9
+        },
+        {
+            "group_name": "no intervention",
+            "n_pergroup": 8
+        }
+    ],
+    "intervention_period_day": 21,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "pilot study."
+}

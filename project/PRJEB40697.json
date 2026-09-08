@@ -1,0 +1,41 @@
+{
+    "project_accession": "PRJEB40697",
+    "pmc_id": "PMC8919571",
+    "paper_title": "Calorie restriction improves metabolic state independently of gut microbiome composition: a randomized dietary intervention trial",
+    "pico": {
+        "patient": "obesity person",
+        "intervention": [
+            "intermittent calorie restriction",
+            "continuous calorie restriction"
+        ],
+        "comparison": "no intervention",
+        "reference": null,
+        "outcome": "investigate the effects of intermittent calorie restriction (ICR) operationalized as the 5:2 diet versus continuous calorie restriction (CCR) on fecal microbiota"
+    },
+    "n_total": 136,
+    "n": [
+        {
+            "group_name": "intermittent calorie restriction",
+            "n_pergroup": 45
+        },
+        {
+            "group_name": "continuous calorie restriction",
+            "n_pergroup": 41
+        },
+        {
+            "group_name": "no intervention",
+            "n_pergroup": 50
+        }
+    ],
+    "intervention_period_day": 84,
+    "washout_period_day": null,
+    "intervention_frequency": [
+        "twice a week",
+        "everyday",
+        null
+    ],
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. Some samples have two raw data."
+}

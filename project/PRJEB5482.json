@@ -1,0 +1,31 @@
+{
+    "project_accession": "PRJEB5482",
+    "pmc_id": "PMC4189846",
+    "paper_title": "Persistent Gut Microbiota Immaturity in Malnourished Bangladeshi Children",
+    "pico": {
+        "patient": "children with Severe Acute Malnutrition ",
+        "intervention": "Plumpy'Nut (RUTF)",
+        "comparison": "Khichuri-Halwa",
+        "reference": null,
+        "outcome": "severe acute malnutrition (SAM) is associated with immature gut microbiota. Even after therapeutic food interventions, the gut microbiota of malnourished children did not fully mature."
+    },
+    "n_total": 64,
+    "n": [
+        {
+            "group_name": "Plumpy'Nut (RUTF)",
+            "n_pergroup": 32
+        },
+        {
+            "group_name": "Khichuri-Halw",
+            "n_pergroup": 32
+        }
+    ],
+    "intervention_period_day": 9.1,
+    "washout_period_day": null,
+    "intervention_frequency": "once a day",
+    "randomization_method": "RCT",
+    "blinding_method": "null",
+    "parallel_or_crossover": "parallel",
+    "use_antibiotics":"parenteral: Ampicillin (2d), Gentamicin (7d) ,oral: Amoxicillin (5d, Day3-7)",
+    "supplement": "Intervention_period_day is expressed as average values. The exact value is 1.3±0.7 weeks. collection_timing_day changes the unit from months to days.other_ index:weight gain rate,WHZ score"
+}

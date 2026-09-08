@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA379979",
+    "pmc_id": "PMC6071993",
+    "paper_title": "Enhanced preservation of the human intestinal microbiota by ridinilazole, a novel Clostridium difficile-targeting antibacterial, compared to vancomycin",
+    "pico": {
+        "patient": "person with clostridium difficile infection",
+        "intervention": "ridinilazole",
+        "comparison": "vancomycin",
+        "reference": null,
+        "outcome": "Ridinilazole does not significantly change the intestinal flora and contributes to reducing the recurrence rate of CDI"
+    },
+    "n_total": 44,
+    "n": [
+        {
+            "group_name": "ridinilazole",
+            "n_pergroup": 22
+        },
+        {
+            "group_name": "vancomycin",
+            "n_pergroup": 22
+        }
+    ],
+    "intervention_period_day": 10,
+    "washout_period_day": null,
+    "intervention_frequency": "once a day",
+    "randomization_method": "RCT",
+    "blinding_method": "null",
+    "parallel_or_crossover": "parallel",
+    "supplement": "Comparioson with control group of healthy at one timepoint is also conducted."
+}

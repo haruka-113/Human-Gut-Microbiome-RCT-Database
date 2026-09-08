@@ -1,0 +1,41 @@
+{
+    "project_accession": "PRJNA542910",
+    "pmc_id": "PMC6989501",
+    "paper_title": "Gut microbiota plasticity is correlated with sustained weight loss on a low-carb or low-fat dietary intervention",
+    "pico": {
+        "patient": "obesity person",
+        "intervention": [
+            "the low-carbohydrate diet",
+            "the low-fat diet"
+        ],
+        "comparison": null,
+        "reference": null,
+        "outcome": "Our findings suggest the potential importance of gut microbiota plasticity for sustained weight-loss."
+    },
+    "n_total": 122,
+    "n": [
+        {
+            "group_name": "the low-carbohydrate diet in the discovery cohort",
+            "n_pergroup": 32
+        },
+        {
+            "group_name": "the low-carbohydrate diet in the validation cohort",
+            "n_pergroup": 31
+        },
+        {
+            "group_name": "the low-fat diet in the discovery cohort",
+            "n_pergroup": 34
+        },
+        {
+            "group_name": "the low-fat diet in the validation cohort",
+            "n_pergroup": 25
+        }
+    ],
+    "intervention_period_day": 70,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. Two cohorts are included. taxonomy was recalculated using the merged samples."
+}

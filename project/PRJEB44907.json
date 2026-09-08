@@ -1,0 +1,42 @@
+{
+    "project_accession": "PRJEB44907",
+    "pmc_id": "PMC8351344",
+    "paper_title": "Effectiveness and safety of Bifidobacterium and berberine in human hyperglycemia and their regulatory effect on the gut microbiota: a multi-center, double-blind, randomized, parallel-controlled study",
+    "pico": {
+        "patient": "person with hyperglycemi",
+        "intervention": [
+            "berberine",
+            "Bifidobacterium",
+            "berberine, Bifidobacterium"
+        ],
+        "comparison": "placebo",
+        "reference": null,
+        "outcome": "investigate  the hypoglycemic effect and the regulation of the gut microbiota caused by berberine and Bifidobacterium and the possible additive benefits of their combination"
+    },
+    "n_total": 208,
+    "n": [
+        {
+            "group_name": "berberine",
+            "n_pergroup": 30
+        },
+        {
+            "group_name": "Bifidobacterium",
+            "n_pergroup": 62
+        },
+        {
+            "group_name": "berberine, Bifidobacterium",
+            "n_pergroup": 30
+        },
+        {
+            "group_name": "placebo",
+            "n_pergroup": 86
+        }
+    ],
+    "intervention_period_day": 112,
+    "washout_period_day": null,
+    "intervention_frequency": "twice a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

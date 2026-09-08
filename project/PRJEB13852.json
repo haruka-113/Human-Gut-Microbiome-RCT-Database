@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJEB13852",
+    "pmc_id": "PMC7490872",
+    "paper_title": "Relative abundance of the Prevotella genus within the human gut microbiota of elderly volunteers determines the inter-individual responses to dietary supplementation with wheat bran arabinoxylan-oligosaccharides",
+    "pico": {
+        "patient": "healthy",
+        "intervention": "wheat bran arabinoxylan-oligosaccharides",
+        "comparison": "maltodextrin",
+        "reference": null,
+        "outcome": "investigate the influence of wheat bran arabinoxylan-oligosaccharides (AXOS) and maltodextrin supplements in modulating the composition of the colonic microbiota and metabolites in healthy adults over the age of 60"
+    },
+    "n_total": 21,
+    "n": [
+        {
+            "group_name": "maltodextrin first",
+            "n_pergroup": 8
+        },
+        {
+            "group_name": "wheat bran arabinoxylan-oligosaccharides first",
+            "n_pergroup": 13
+        }
+    ],
+    "intervention_period_day": 10,
+    "washout_period_day": 5,
+    "intervention_frequency": "three times a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "crossover",
+    "supplement": ""
+}

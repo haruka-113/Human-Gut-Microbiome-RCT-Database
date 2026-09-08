@@ -1,0 +1,34 @@
+{
+    "project_accession": "PRJEB20766",
+    "pmc_id": "PMC5816017",
+    "paper_title": "Delayed gut microbiota development in high-risk for asthma infants is temporarily modifiable by Lactobacillus supplementation",
+    "pico": {
+        "patient": "infants at high risk for asthma",
+        "intervention": "Lactobacillus rhamnosus GG",
+        "comparison": "placebo",
+        "reference": "healthy infants",
+        "outcome": "we show that early-life gut microbial development is distinct, but plastic, in HR infants."
+    },
+    "n_total": 54,
+    "n": [
+        {
+            "group_name": "Lactobacillus rhamnosus GG",
+            "n_pergroup": 10
+        },
+        {
+            "group_name": "placebo",
+            "n_pergroup": 15
+        },
+        {
+            "group_name": "healthy infants",
+            "n_pergroup": 29
+        }
+    ],
+    "intervention_period_day": 180,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "RCT",
+    "supplement": "inetervention_period_day changes the unit from months to days."
+}

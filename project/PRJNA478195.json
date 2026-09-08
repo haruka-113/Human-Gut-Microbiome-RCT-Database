@@ -1,0 +1,34 @@
+{
+    "project_accession": "PRJNA478195",
+    "pmc_id": "PMC7078481",
+    "paper_title": "Linking Human Milk Oligosaccharides, Infant Fecal Community Types, and Later Risk To Require Antibiotics",
+    "pico": {
+        "patient": "healthy infants fed only formula",
+        "intervention": "test formula with 2'-fucosyllactose and lacto-N-neotetraose",
+        "comparison": "control formula",
+        "reference": "breast milk",
+        "outcome": "Previously reported lower rates of infection-related medication use with HMOs may therefore be linked to gut microbiota community types."
+    },
+    "n_total": 126,
+    "n": [
+        {
+            "group_name": "test formula with 2'-fucosyllactose and lacto-N-neotetraose",
+            "n_pergroup": 47
+        },
+        {
+            "group_name": "control formula",
+            "n_pergroup": 49
+        },
+        {
+            "group_name": "breast milk",
+            "n_pergroup": 30
+        }
+    ],
+    "intervention_period_day": 180,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from months to days. Comparison with breastfed infants is also conducted. Samples before intervention are not collected."
+}

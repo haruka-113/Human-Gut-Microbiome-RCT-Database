@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA414540",
+    "pmc_id": "PMC6060159",
+    "paper_title": "Gut Bacterial Microbiota and its Resistome Rapidly Recover to Basal State Levels after Short-term Amoxicillin-Clavulanic Acid Treatment in Healthy Adults",
+    "pico": {
+        "patient": "healthy",
+        "intervention": "short-term amoxicillin-clavulanic acid treatment with lactobacillus helveticus R0052, lactobacillus rhamnosus R0012",
+        "comparison": "short-term amoxicillin-clavulanic acid treatment and placebo",
+        "reference": null,
+        "outcome": "Gut bacterial microbiota and its resistome Rapidly Recover to basal state levels after Short-term Amoxicillin-Clavulanic Acid Treatment in both group"
+    },
+    "n_total": 70,
+    "n": [
+        {
+            "group_name": "short-term amoxicillin-clavulanic acid treatment with lactobacillus helveticus R0052, lactobacillus rhamnosus R0011",
+            "n_pergroup": 35
+        },
+        {
+            "group_name": "short-term amoxicillin-clavulanic acid treatment and placebo",
+            "n_pergroup": 35
+        }
+    ],
+    "intervention_period_day": 21,
+    "washout_period_day": null,
+    "intervention_frequency": "once a day",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "Bacterial composition by group was deleted (SRS2605618,SRS2605619). collection_timing_day changes the unit from weeks to days."
+}

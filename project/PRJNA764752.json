@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA764752",
+    "pmc_id": "PMC10844320",
+    "paper_title": "Effect of ginger supplementation on the fecal microbiome in subjects with prior colorectal adenoma",
+    "pico": {
+        "patient": "person with adenoma",
+        "intervention": "ginger",
+        "comparison": "lactose",
+        "reference": null,
+        "outcome": "Overall, ginger supplementation appears to have a limited effect on gut microbiome in patients with colorectal adenomas."
+    },
+    "n_total": 68,
+    "n": [
+        {
+            "group_name": "ginger",
+            "n_pergroup": 33
+        },
+        {
+            "group_name": "lactose",
+            "n_pergroup": 35
+        }
+    ],
+    "intervention_period_day": 42,
+    "washout_period_day": 42,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

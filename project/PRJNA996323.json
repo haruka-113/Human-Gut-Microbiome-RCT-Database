@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA996323",
+    "pmc_id": "PMC10459086",
+    "paper_title": "Interactions between Mediterranean Diet Supplemented with Dairy Foods and the Gut Microbiota Influence Cardiovascular Health in an Australian Population",
+    "pico": {
+        "patient": "person at risk for cardiovascular disease",
+        "intervention": "mediterranean diet",
+        "comparison": "low-fat control diet",
+        "reference": null,
+        "outcome": "Compared to a low-fat control diet, the MedDairy diet resulted in changes in the abundance of specific gut bacteria, which were associated with clinical outcomes in adults at risk of CVD."
+    },
+    "n_total": 34,
+    "n": [
+        {
+            "group_name": "mediterranean diet intervention first",
+            "n_pergroup": 18
+        },
+        {
+            "group_name": "low-fat control diet first",
+            "n_pergroup": 16
+        }
+    ],
+    "intervention_period_day": 56,
+    "washout_period_day": 56,
+    "intervention_frequency": "three or four times a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "crossover",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA745947",
+    "pmc_id": "PMC9062816",
+    "paper_title": "Liver alterations are not improved by inulin supplementation in alcohol use disorder patients during alcohol withdrawal: A pilot randomized, double-blind, placebo-controlled study",
+    "pico": {
+        "patient": "person with alcohol use disorder",
+        "intervention": "inulin",
+        "comparison": "maltodextrin",
+        "reference": null,
+        "outcome": "investigate the effects of inulin supplementation on liver parameters in alcohol use disorder (AUD) patients (whole sample) and in a subpopulation with early alcohol-associated liver disease (eALD)."
+    },
+    "n_total": 44,
+    "n": [
+        {
+            "group_name": "inulin",
+            "n_pergroup": 22
+        },
+        {
+            "group_name": "maltodextrin",
+            "n_pergroup": 22
+        }
+    ],
+    "intervention_period_day": 17,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "pilot study."
+}

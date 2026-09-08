@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA657941",
+    "pmc_id": "PMC9202724",
+    "paper_title": "Cardiovascular Benefits of Empagliflozin Are Associated With Gut Microbiota and Plasma Metabolites in Type 2 Diabetes",
+    "pico": {
+        "patient": "person with type 2 diabetes",
+        "intervention": "empagliflozin",
+        "comparison": "metformin",
+        "reference": null,
+        "outcome": "investigate whether empagliflozin may be used as an initial treatment for patients with T2DM at risk of cardiovascular diseases (CVDs)"
+    },
+    "n_total": 76,
+    "n": [
+        {
+            "group_name": "empagliflozin",
+            "n_pergroup": 40
+        },
+        {
+            "group_name": "metformin",
+            "n_pergroup": 36
+        }
+    ],
+    "intervention_period_day": 90,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "open label",
+    "blinding_method": "RCT",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from months to days. "
+}

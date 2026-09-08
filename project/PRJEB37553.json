@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJEB37553",
+    "pmc_id": "PMC8466689",
+    "paper_title": "A Randomised, Controlled Trial: Effect of a Multi-Strain Fermented Milk on the Gut Microbiota Recovery after Helicobacter pylori Therapy",
+    "pico": {
+        "patient": "person receiving Helicobacter pylori treatment",
+        "intervention": "test fermented milk containing yogurt and Lacticaseibacillus",
+        "comparison": "acidified milk",
+        "reference": null,
+        "outcome": "investigate the effect in Hp patients of a Test fermented milk containing yogurt and Lacticaseibacillus (L. paracasei CNCM I-1518 and I-3689, L. rhamnosus CNCM I-3690) strains on antibiotic associated diarrhea (AAD) (primary aim), GI-symptoms, gut microbiota, and metabolites."
+    },
+    "n_total": 136,
+    "n": [
+        {
+            "group_name": "test fermented milk containing yogurt and Lacticaseibacillus",
+            "n_pergroup": 68
+        },
+        {
+            "group_name": "acidified milk",
+            "n_pergroup": 68
+        }
+    ],
+    "intervention_period_day": 28,
+    "washout_period_day": null,
+    "intervention_frequency": "twice a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from months to days. "
+}

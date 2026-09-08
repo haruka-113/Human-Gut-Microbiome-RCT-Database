@@ -1,0 +1,42 @@
+{
+    "project_accession": "PRJNA515272",
+    "pmc_id": "PMC7820285",
+    "paper_title": "Antibiotics and the developing intestinal microbiome, metabolome and inflammatory environment in a randomized trial of preterm infants",
+    "pico": {
+        "patient": "premature infants",
+        "intervention": "antibiotics",
+        "comparison": "no interbention",
+        "reference": null,
+        "outcome": "investigate microbiome, metabolomic, and immune marker results from the routine early antibiotic use in the study"
+    },
+    "n_total": 91,
+    "n": [
+        {
+            "group_name": "indication for antibiotic use",
+            "n_pergroup": 28
+        },
+        {
+            "group_name": "no indication for antibiotic use",
+            "n_pergroup": 11
+        },
+        {
+            "group_name": "randomly allocated to antibiotics use",
+            "n_pergroup": 26
+        },
+        {
+            "group_name": "randomly allocated to no antibiotics use",
+            "n_pergroup": 14
+        },
+        {
+            "group_name": "bailed to antibiotics",
+            "n_pergroup": 12
+        }
+    ],
+    "intervention_period_day": null,
+    "washout_period_day": null,
+    "intervention_frequency": null,
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": "Not all samples are randomly allocated."
+}

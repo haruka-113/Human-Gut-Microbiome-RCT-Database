@@ -1,0 +1,40 @@
+{
+    "project_accession": "PRJEB38835",
+    "pmc_id": [
+        "PMC8170780",
+        "PMC8183560"
+    ],
+    "paper_title": "Short-term physical exercise impacts on the human holobiont obtained by a randomised intervention study",
+    "pico": {
+        "patient": "physically inactive and healthy",
+        "intervention": [
+            "endurance training",
+            "strength training"
+        ],
+        "comparison": "no intervention",
+        "reference": null,
+        "outcome": "no specific collective alterations in the endurance nor the strength groups"
+    },
+    "n_total": 36,
+    "n": [
+        {
+            "group_name": "endurance training",
+            "n_pergroup": 13
+        },
+        {
+            "group_name": "strength training",
+            "n_pergroup": 12
+        },
+        {
+            "group_name": "no intervention",
+            "n_pergroup": 11
+        }
+    ],
+    "intervention_period_day": 42,
+    "washout_period_day": null,
+    "intervention_frequency": "three times a week",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "Comparison with athletes is also conducted. other_index: body composition measurements, blood samples, physical performance, and lifestyle tracking"
+}

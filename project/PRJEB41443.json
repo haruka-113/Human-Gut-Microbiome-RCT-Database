@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJEB41443",
+    "pmc_id": "PMC7922998",
+    "paper_title": "Resistant Starch Type 2 from Wheat Reduces Postprandial Glycemic Response with Concurrent Alterations in Gut Microbiota Composition",
+    "pico": {
+        "patient": "healthy",
+        "intervention": "RS2-enriched wheat rolls",
+        "comparison": "conventional wheat rolls",
+        "reference": null,
+        "outcome": "investigate the effects of RS2 from wheat on glycemic response, an important indicator of metabolic health, and the gut microbiota"
+    },
+    "n_total": 30,
+    "n": [
+        {
+            "group_name": "RS2-enriched wheat rolls first",
+            "n_pergroup": 15
+        },
+        {
+            "group_name": "conventional wheat rolls first",
+            "n_pergroup": 15
+        }
+    ],
+    "intervention_period_day": 7,
+    "washout_period_day": 14,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "crossover",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

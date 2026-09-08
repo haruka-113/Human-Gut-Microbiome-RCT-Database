@@ -1,0 +1,40 @@
+{
+    "project_accession": "PRJNA414451",
+    "pmc_id": "PMC5738078",
+    "paper_title": "Randomized clinical trial to evaluate the effect of fecal microbiota transplant for initial Clostridium difficile infection in intestinal microbiome",
+    "pico": {
+        "patient": "person with clostridium difficile infection",
+        "intervention": "FMT-FURM",
+        "comparison": "vancomycin",
+        "reference": "donor",
+        "outcome": "The vancomycin group showed a very different pattern of the microbial composition when comparing to the FMT-FURM group over time."
+    },
+    "n_total": 19,
+    "n": [
+        {
+            "group_name": "FMT-FURM",
+            "n_pergroup": 7
+        },
+        {
+            "group_name": "vancomycin",
+            "n_pergroup": 9
+        },
+        {
+            "group_name": "donor",
+            "n_pergroup": 1
+        }
+    ],
+    "intervention_period_day": [
+        null,
+        12
+    ],
+    "washout_period_day": null,
+    "intervention_frequency": [
+        null,
+        "once every six hours"
+    ],
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "pilot study. patients took treatment for the first CDI episode. donor sample(3samples are mixed) is also included. Intervention period and frequency are different between 2 groups. Intervention_period_day is expressed as average values. The exact value is 10~14 days."
+}

@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJDB5678",
+    "pmc_id": "PMC6286434",
+    "paper_title": "Effects of short-term endurance exercise on gut microbiota in elderly men",
+    "pico": {
+        "patient": "healthy elderly person",
+        "intervention": "endurance training",
+        "comparison": "control session",
+        "reference": null,
+        "outcome": "The findings indicate that short-term endurance exercise has little effect on gut microbiota in elderly individuals, and that the changes in gut microbiota were associated with cardiometabolic risk factors, such as systolic and diastolic blood pressure, providing preliminary insight into the associations between the gut microbiota and cardiometabolic phenotypes."
+    },
+    "n_total": 31,
+    "n": [
+        {
+            "group_name": "endurance training first",
+            "n_pergroup": 14
+        },
+        {
+            "group_name": "control session first",
+            "n_pergroup": 17
+        }
+    ],
+    "intervention_period_day": 35,
+    "washout_period_day": null,
+    "intervention_frequency": "three times a week",
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "crossover",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

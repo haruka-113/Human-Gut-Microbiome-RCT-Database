@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA881306",
+    "pmc_id": "PMC9840001",
+    "paper_title": "Mixed Tree Nuts, Cognition, and Gut Microbiota: A 4-Week, Placebo-Controlled, Randomized Crossover Trial in Healthy Nonelderly Adults",
+    "pico": {
+        "patient": "healthy, nonelderly adults",
+        "intervention": "mixed tree nuts",
+        "comparison": "microcrystalline cellulose",
+        "reference": null,
+        "outcome": "investigate the effects of daily consumption of tree nuts for 4 wk on cognitive function (primary outcome), mood, metabolomics, and gut microbial species (secondary outcomes) in healthy, nonelderly adults"
+    },
+    "n_total": 79,
+    "n": [
+        {
+            "group_name": "mixed tree nuts first",
+            "n_pergroup": 39
+        },
+        {
+            "group_name": "microcrystalline cellulose first",
+            "n_pergroup": 40
+        }
+    ],
+    "intervention_period_day": 28,
+    "washout_period_day": 28,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "crossover",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

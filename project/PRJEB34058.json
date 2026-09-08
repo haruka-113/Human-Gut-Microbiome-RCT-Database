@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJEB34058",
+    "pmc_id": "PMC7738543",
+    "paper_title": "Impact of outdoor nature-related activities on gut microbiota, fecal serotonin, and perceived stress in preschool children: the Play&Grow randomized controlled trial",
+    "pico": {
+        "patient": "healthy children",
+        "intervention": "Play&Grow program",
+        "comparison": "no intervention",
+        "reference": null,
+        "outcome": "investigate the impact of the “Play&Grow” intervention on the intestinal microbiome (both taxa and predicted functions), gut serotonin level, and the psychological well-being of 2–5 years old children"
+    },
+    "n_total": 45,
+    "n": [
+        {
+            "group_name": "Play&Grow program",
+            "n_pergroup": 27
+        },
+        {
+            "group_name": "no intervention",
+            "n_pergroup": 18
+        }
+    ],
+    "intervention_period_day": 70,
+    "washout_period_day": null,
+    "intervention_frequency": null,
+    "randomization_method": "RCT",
+    "blinding_method": "blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

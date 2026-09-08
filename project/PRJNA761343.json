@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA761343",
+    "pmc_id": "PMC9658918",
+    "paper_title": "Changes in Gut Microbiota and Systemic Inflammation after Synbiotic Supplementation in Patients with Systemic Lupus Erythematosus: A Randomized, Double-Blind, Placebo-Controlled Trial",
+    "pico": {
+        "patient": "person with Systemic Lupus Erythematosus",
+        "intervention": "lactobacillus helveticus r0052, Bifidobacterium infantis r0033, bifidobacterium bifidum r0071 + fructo-oligosaccharides",
+        "comparison": "saccharum lactis",
+        "reference": null,
+        "outcome": "investigate whether synbiotics could improve gut microbiota and systemic inflammation in lupus patients"
+    },
+    "n_total": 43,
+    "n": [
+        {
+            "group_name": "Lactobacillus helveticus R0052, Bifidobacterium infantis R0033, Bifidobacterium bifidum R0071 + fructo-oligosaccharides",
+            "n_pergroup": 21
+        },
+        {
+            "group_name": "saccharum lactis",
+            "n_pergroup": 22
+        }
+    ],
+    "intervention_period_day": 60,
+    "washout_period_day": null,
+    "intervention_frequency": "once a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": ""
+}

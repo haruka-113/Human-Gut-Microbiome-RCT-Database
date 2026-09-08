@@ -1,0 +1,34 @@
+{
+    "project_accession": "PRJNA686209",
+    "pmc_id": "PMC8039316",
+    "paper_title": "Effects of Infant Formula Supplemented With Prebiotics and OPO on Infancy Fecal Microbiota: A Pilot Randomized Clinical Trial",
+    "pico": {
+        "patient": "healthy infants",
+        "intervention": "supplemented formula",
+        "comparison": "control formula",
+        "reference": "breast milk",
+        "outcome": "investigate the effects of two kinds of infant formula with different additives on the overall diversity and composition of the fecal microbiota, to determine which was closer to breastfeeding"
+    },
+    "n_total": 83,
+    "n": [
+        {
+            "group_name": "control formula",
+            "n_pergroup": 13
+        },
+        {
+            "group_name": "supplemented formula",
+            "n_pergroup": 22
+        },
+        {
+            "group_name": "breast milk",
+            "n_pergroup": 48
+        }
+    ],
+    "intervention_period_day": null,
+    "washout_period_day": null,
+    "intervention_frequency": null,
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "pilot study. Samples before intervention are not collected."
+}

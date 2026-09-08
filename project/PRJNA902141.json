@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA902141",
+    "pmc_id": "PMC10871487",
+    "paper_title": "Impact of bread diet on intestinal dysbiosis and irritable bowel syndrome symptoms in quiescent ulcerative colitis: A pilot study",
+    "pico": {
+        "patient": "person with ulcerative colitis and irritable bowel syndrome",
+        "intervention": "treatment bread",
+        "comparison": "control bread",
+        "reference": null,
+        "outcome": "The intake of a bread baked using traditional elaboration decreased the Firmicutes/Bacteroidetes ratio, which seemed to be associated with improving IBS-like symptoms in quiescent ulcerative colitis patients."
+    },
+    "n_total": 23,
+    "n": [
+        {
+            "group_name": "treatment bread",
+            "n_pergroup": 12
+        },
+        {
+            "group_name": "control bread",
+            "n_pergroup": 11
+        }
+    ],
+    "intervention_period_day": 56,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "pilot study. inetervention_period_day changes the unit from weeks to days. "
+}

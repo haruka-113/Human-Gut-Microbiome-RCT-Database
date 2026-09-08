@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJEB47587",
+    "pmc_id": "PMC8865290",
+    "paper_title": "Timing of antimicrobial prophylaxis for cesarean section is critical for gut microbiome development in term born infants",
+    "pico": {
+        "patient": "pregnant women undergoing elective caesarean section and infants pair",
+        "intervention": "cefuroxime after cord clamping",
+        "comparison": "cefuroxime 30 minutes before skin incision",
+        "reference": null,
+        "outcome": "investigate the effect of timing of antimicrobial prophylaxis for cesarean section before versus after cord clamping on gut microbiome composition of term born infants"
+    },
+    "n_total": 37,
+    "n": [
+        {
+            "group_name": "cefuroxime after cord clamping",
+            "n_pergroup": 18
+        },
+        {
+            "group_name": "cefuroxime 30 minutes before skin incision",
+            "n_pergroup": 19
+        }
+    ],
+    "intervention_period_day": null,
+    "washout_period_day": null,
+    "intervention_frequency": null,
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": ""
+}

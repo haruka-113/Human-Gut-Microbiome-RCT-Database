@@ -1,0 +1,37 @@
+{
+    "project_accession": "PRJNA573815",
+    "pmc_id": "PMC7652883",
+    "paper_title": "Sequential laxative-probiotic usage for treatment of irritable bowel syndrome: a novel method inspired by mathematical modelling of the microbiome",
+    "pico": {
+        "patient": "person with irritable bowel syndrome",
+        "intervention": [
+            "laxative immediately followed by clostridium butyricum administration",
+            "laxative, interval and clostridium butyricum administration"
+        ],
+        "comparison": "clostridium butyricum",
+        "reference": null,
+        "outcome": "investigate whether coupled usage of laxative-probiotic can relieve the IBS symptoms better than conventional probiotic usage."
+    },
+    "n_total": 32,
+    "n": [
+        {
+            "group_name": "laxative immediately followed by clostridium butyricum administration",
+            "n_pergroup": 11
+        },
+        {
+            "group_name": "laxative, interval and clostridium butyricum administration",
+            "n_pergroup": 12
+        },
+        {
+            "group_name": "clostridium butyricum",
+            "n_pergroup": 9
+        }
+    ],
+    "intervention_period_day": 28,
+    "washout_period_day": null,
+    "intervention_frequency": "three times a day",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. This clinical trial is a mathematical model validation experiment."
+}

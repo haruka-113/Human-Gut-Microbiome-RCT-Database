@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA592775",
+    "pmc_id": "PMC8398245",
+    "paper_title": "Changes in the Gut Bacteria Composition of Healthy Men with the Same Nutritional Profile Undergoing 10-Week Aerobic Exercise Training: A Randomized Controlled Trial",
+    "pico": {
+        "patient": "physically inactive and healthy",
+        "intervention": "exercise",
+        "comparison": "no intervention",
+        "reference": null,
+        "outcome": "investigate the effect of 10-week moderate aerobic exercise on the cardiorespiratory fitness and gut bacteria composition of non-obese men with the same nutritional profile."
+    },
+    "n_total": 24,
+    "n": [
+        {
+            "group_name": "exercise",
+            "n_pergroup": 12
+        },
+        {
+            "group_name": "no intervention",
+            "n_pergroup": 12
+        }
+    ],
+    "intervention_period_day": 70,
+    "washout_period_day": null,
+    "intervention_frequency": "three times a week",
+    "randomization_method": "RCT",
+    "blinding_method": null,
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. "
+}

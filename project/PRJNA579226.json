@@ -1,0 +1,34 @@
+{
+    "project_accession": "PRJNA579226",
+    "pmc_id": "PMC8024544",
+    "paper_title": "A Phase II Randomized Clinical Trial and Mechanistic Studies Using Improved Probiotics to Prevent Oral Mucositis Induced by Concurrent Radiotherapy and Chemotherapy in Nasopharyngeal Carcinoma",
+    "pico": {
+        "patient": "person with locally advanced nasopharyngeal cancer who were undergoing concurrent chemoradiotherapy",
+        "intervention": "Lactobacillus. plantarum MH-30110,Bifidobacterium animalis subsp. Lactis LPL-RH10, Lactobacillus rhamnosus LGG-1810, Lactobacillus acidophilus",
+        "comparison": "placebo",
+        "reference": "healthy",
+        "outcome": "investigate the effectiveness of the probiotic cocktail on oral mucositis in patients with nasopharyngeal cancer"
+    },
+    "n_total": 30,
+    "n": [
+        {
+            "group_name": "Lactobacillus. plantarum MH-30110,Bifidobacterium animalis subsp. Lactis LPL-RH10, Lactobacillus rhamnosus LGG-1810, Lactobacillus acidophilus",
+            "n_pergroup": 10
+        },
+        {
+            "group_name": "placebo",
+            "n_pergroup": 10
+        },
+        {
+            "group_name": "healthy",
+            "n_pergroup": 10
+        }
+    ],
+    "intervention_period_day": 49,
+    "washout_period_day": null,
+    "intervention_frequency": "twice a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days."
+}

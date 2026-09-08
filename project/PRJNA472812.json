@@ -1,0 +1,37 @@
+{
+    "project_accession": "PRJNA472812",
+    "pmc_id": "PMC6207839",
+    "paper_title": "Repeated rectal application of a hyperosmolar lubricant is associated with microbiota shifts but does not affect PrEP drug concentrations: results from a randomized trial in men who have sex with men",
+    "pico": {
+        "patient": "men who have sex with men ",
+        "intervention": "hyperosmolar rectal lubricant + tenofovir disoproxil fumarate plus emtricitabine",
+        "comparison": [
+            "tenofovir disoproxil fumarate plus emtricitabine",
+            "hyperosmolar rectal lubricant"
+        ],
+        "reference": null,
+        "outcome": "PrEP drug concentrations in rectal tissue and secretions were not associated with microbiota composition or diversity either before or after lubricant use."
+    },
+    "n_total": 60,
+    "n": [
+        {
+            "group_name": "hyperosmolar rectal lubricant + tenofovir disoproxil fumarate plus emtricitabine",
+            "n_pergroup": 21
+        },
+        {
+            "group_name": "tenofovir disoproxil fumarate plus emtricitabine",
+            "n_pergroup": 19
+        },
+        {
+            "group_name": "hyperosmolar rectal lubricant",
+            "n_pergroup": 20
+        }
+    ],
+    "intervention_period_day": 7,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": ""
+}

@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA297793",
+    "pmc_id": "PMC4951149",
+    "paper_title": "Effects of Arabinoxylan and Resistant Starch on Intestinal Microbiota and Short-Chain Fatty Acids in Subjects with Metabolic Syndrome: A Randomised Crossover Study",
+    "pico": {
+        "patient": "person with metabolic syndrome",
+        "intervention": "arabinoxylan and resistant starch type 2 enriched diet",
+        "comparison": "low-fiber Western-style diet",
+        "reference": null,
+        "outcome": "arabinoxylan and resistant starch intake changes the microbiome and short-chain fatty acid compositions, with potential beneficial effects on colonic health and metabolic syndrome."
+    },
+    "n_total": 19,
+    "n": [
+        {
+            "group_name": "arabinoxylan and resistant starch type 2 enriched diet first",
+            "n_pergroup": 9
+        },
+        {
+            "group_name": "low-fibre Western-style diet first",
+            "n_pergroup": 10
+        }
+    ],
+    "intervention_period_day": 28,
+    "washout_period_day": 28,
+    "intervention_frequency": null,
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "crossover",
+    "supplement": "inetervention_period_day changes the unit from weeks to days. taxonomy was recalculated using the merged samples."
+}

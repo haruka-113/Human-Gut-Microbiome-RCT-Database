@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA751485",
+    "pmc_id": "PMC8726663",
+    "paper_title": "Impact of intensive lifestyle intervention on gut microbiota composition in type 2 diabetes: a post-hoc analysis of a randomized clinical trial",
+    "pico": {
+        "patient": "person with type 2 diabetes",
+        "intervention": "lifestyle intervention",
+        "comparison": "standard care",
+        "reference": null,
+        "outcome": "investigate if an intensive lifestyle intervention combined with conventional standard care leads to a different gut microbiota composition compared to standard care alone treatment in individuals with T2D, and if gut microbiota is associated with the clinical benefits of the treatments"
+    },
+    "n_total": 86,
+    "n": [
+        {
+            "group_name": "lifestyle intervention",
+            "n_pergroup": 60
+        },
+        {
+            "group_name": "standard care",
+            "n_pergroup": 26
+        }
+    ],
+    "intervention_period_day": 360,
+    "washout_period_day": null,
+    "intervention_frequency": "five or six times a week",
+    "randomization_method": "RCT",
+    "blinding_method": "blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from months to days. "
+}

@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA392762",
+    "pmc_id": "PMC5504379",
+    "paper_title": "Long-term irritable bowel syndrome symptom control with reintroduction of selected FODMAPs",
+    "pico": {
+        "patient": "person with irritable bowel syndrome",
+        "intervention": "the low FODMAP diet education",
+        "comparison": "the diet without education",
+        "reference": null,
+        "outcome": "This study demonstrated that a reduction in FODMAPs improves symptoms in IBS and this improvement can be maintained while reintroducing FODMAPs."
+    },
+    "n_total": 34,
+    "n": [
+        {
+            "group_name": "the low FODMAP diet education",
+            "n_pergroup": 16
+        },
+        {
+            "group_name": "the diet without education",
+            "n_pergroup": 18
+        }
+    ],
+    "intervention_period_day": 30,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from months to days. "
+}

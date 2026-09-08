@@ -1,0 +1,52 @@
+{
+    "project_accession": "PRJNA434249",
+    "pmc_id": "PMC6022452",
+    "paper_title": "Probiotic Bifidobacterium strains and galactooligosaccharides improve intestinal barrier function in obese adults but show no synergism when used together as synbiotics",
+    "pico": {
+        "patient": "obesity person",
+        "intervention": [
+            "Bifidobacterium adolescentis IVS-1",
+            "Bifidobacterium lactis BB-12",
+            "galacto-oligosaccharides",
+            "Bifidobacterium adolescentis IVS-1 + galacto-oligosaccharides",
+            "Bifidobacterium lactis BB-12 + galacto-oligosaccharides"
+        ],
+        "comparison": "lactose",
+        "reference": null,
+        "outcome": "our findings clearly showed that the pro- and prebiotic components by themselves improved markers of colonic permeability, providing a rational for their use in pathologies with an underlying leakiness of the gut."
+    },
+    "n_total": 94,
+    "n": [
+        {
+            "group_name": "Bifidobacterium adolescentis IVS-1",
+            "n_pergroup": 14
+        },
+        {
+            "group_name": "Bifidobacterium lactis BB-12",
+            "n_pergroup": 14
+        },
+        {
+            "group_name": "galacto-oligosaccharides",
+            "n_pergroup": 16
+        },
+        {
+            "group_name": "Bifidobacterium adolescentis IVS-1 + galacto-oligosaccharides",
+            "n_pergroup": 16
+        },
+        {
+            "group_name": "Bifidobacterium lactis BB-12 + galacto-oligosaccharides",
+            "n_pergroup": 17
+        },
+        {
+            "group_name": "lactose",
+            "n_pergroup": 14
+        }
+    ],
+    "intervention_period_day": 21,
+    "washout_period_day": null,
+    "intervention_frequency": "once a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from weeks to days."
+}

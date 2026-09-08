@@ -1,0 +1,34 @@
+{
+    "project_accession": "PRJNA679690",
+    "pmc_id": "PMC8183560",
+    "paper_title": "Engraftment of strictly anaerobic oxygen-sensitive bacteria in irritable bowel syndrome patients following fecal microbiota transplantation does not improve symptoms",
+    "pico": {
+        "patient": "person with irritable bowel syndrome",
+        "intervention": "FMT",
+        "comparison": "placebo",
+        "reference": "donor",
+        "outcome": "investigate whether the dynamics of engraftment at various time-points following FMT treatment and the changes were correlated with clinical effects"
+    },
+    "n_total": 45,
+    "n": [
+        {
+            "group_name": "FMT",
+            "n_pergroup": 21
+        },
+        {
+            "group_name": "placebo",
+            "n_pergroup": 24
+        },
+        {
+            "group_name": "donor",
+            "n_pergroup": 4
+        }
+    ],
+    "intervention_period_day": 12,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": ""
+}

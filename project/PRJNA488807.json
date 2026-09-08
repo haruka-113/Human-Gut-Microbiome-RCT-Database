@@ -1,0 +1,38 @@
+{
+    "project_accession": "PRJNA488807",
+    "pmc_id": "PMC6763478",
+    "paper_title": "Rice bran supplementation modulates growth, microbiota and metabolome in weaning infants: a clinical trial in Nicaragua and Mali",
+    "pico": {
+        "patient": "healthy infants",
+        "intervention": "rice bran",
+        "comparison": "no intervention",
+        "reference": null,
+        "outcome": "Daily consumption of rice bran was safe and feasible to support changes in LAZ from 6–8 and 8–12 months of age in Nicaragua and Mali infants when compared to control."
+    },
+    "n_total": 95,
+    "n": [
+        {
+            "group_name": "rice bran with Nicaragua infants",
+            "n_pergroup": 23
+        },
+        {
+            "group_name": "rice bran with Mali infants",
+            "n_pergroup": 24
+        },
+        {
+            "group_name": "no intervention with Nicaragua infants",
+            "n_pergroup": 24
+        },
+        {
+            "group_name": "no intervention with Nicaragua infants",
+            "n_pergroup": 24
+        }
+    ],
+    "intervention_period_day": 180,
+    "washout_period_day": null,
+    "intervention_frequency": "everyday",
+    "randomization_method": "RCT",
+    "blinding_method": "open label",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from months to days. Group was divide into infants in Nicaragua and Mali."
+}

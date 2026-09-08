@@ -1,0 +1,30 @@
+{
+    "project_accession": "PRJNA923108",
+    "pmc_id": "PMC9982119",
+    "paper_title": "Probiotics intervention in preventing conversion of impaired glucose tolerance to diabetes: The PPDP follow-on study",
+    "pico": {
+        "patient": "person with impaired glucose tolerance",
+        "intervention": "bifidobacterium, lactobacillus acidophilus, enterococcus faecalis",
+        "comparison": "placebo",
+        "reference": null,
+        "outcome": "investigate the incidence of type 2 diabetes mellitus (T2DM) after 6 years in patients with IGT who received early probiotic intervention in the Probiotics Prevention Diabetes Program (PPDP) trial"
+    },
+    "n_total": 72,
+    "n": [
+        {
+            "group_name": "Bifidobacterium, Lactobacillus acidophilus, Enterococcus faecalis",
+            "n_pergroup": 41
+        },
+        {
+            "group_name": "placebo",
+            "n_pergroup": 31
+        }
+    ],
+    "intervention_period_day": 720,
+    "washout_period_day": null,
+    "intervention_frequency": "twice a day",
+    "randomization_method": "RCT",
+    "blinding_method": "double-blind",
+    "parallel_or_crossover": "parallel",
+    "supplement": "inetervention_period_day changes the unit from years to days. "
+}
